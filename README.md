@@ -48,9 +48,4 @@
 
 ---
 
-## ⚙️ How to Run
 
-1. **Clone the repo:**  
-   ```bash
-   git clone https://github.com/siddhant-sharma2033427/weather3.git
-   cd weather3
